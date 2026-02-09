@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to top, #474747, #0c0027);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
